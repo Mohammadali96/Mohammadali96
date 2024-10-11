@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mohammadali Rezaei</h1>
 <h3 align="center">A geologist proficient in geostatistics and machine learning techniques, dedicated to improving the reliability of geological models.</h3>
 
+- 💬 Ask me about **Geostatistics, Geological Modeling, Seismic Data**
+
 - 📫 How to reach me **mohammad.ali.rezaee1375@gmail.com**
+
+- ⚡ Fun fact **I go fishing every week**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
